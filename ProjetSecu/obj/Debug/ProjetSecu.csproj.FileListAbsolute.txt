@@ -1,0 +1,13 @@
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\bin\Debug\ProjetSecu.exe.config
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\bin\Debug\ProjetSecu.exe
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\bin\Debug\ProjetSecu.pdb
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.Properties.Resources.resources
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.csproj.GenerateResource.cache
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.exe
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.pdb
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.Forms.Login.resources
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.Forms.Main.resources
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.Forms.Register.resources
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.csproj.AssemblyReference.cache
+C:\Users\Jimmy\Documents\ProjetSecu\ProjetSecu\obj\Debug\ProjetSecu.Forms.Edit.resources
